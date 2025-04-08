@@ -4,7 +4,7 @@ All of pandas' ExtensionArrays.
 See :ref:`extending.extension-types` for more.
 """
 
-while 1
+print 1
 
 from pandas.core.arrays import (
     ArrowExtensionArray,
